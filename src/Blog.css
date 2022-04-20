@@ -1,0 +1,29 @@
+.card{
+    transition: box-shadow 1s;
+    box-shadow: 0 0 10px #dec4e1;
+}
+.card:hover{
+    box-shadow: 0 0 10px #39d6f2;
+    cursor: pointer;
+}
+
+.card-text{
+    height: 100px;
+}
+
+.card-img-top{
+    padding: 5px 5px 0 5px;
+    box-shadow: 0 -5px 5px -5px #dbd8b4;
+    box-shadow: 5px 0 5px -5px #dbd8b4;
+    box-shadow: -5px 0 5px -5px #dbd8b4;
+}
+
+.card-tag{
+    text-decoration: none;
+    color: #d3166f;
+    transition: color 0.5s;
+}
+
+.card-tag:hover{
+    color: #c111d5;
+}

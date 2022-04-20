@@ -1,0 +1,16 @@
+.fa-thumbs-up{
+    color: #2ea1d8;
+    transition: color 0.5s;
+}
+.fa-thumbs-down {
+    color: #2ea1d8;
+    transition: color 0.5s;
+}
+
+.fa-thumbs-up:hover{
+    color: #02cc02
+}
+
+.fa-thumbs-down:hover{
+    color: red
+}
